@@ -332,8 +332,8 @@ async function starts() {
 					break
 				case 'dono':
 					memein = await kagApi.memeindo()
-					buffer = await getBuffer(`https://i.imgur.com/d1M6lOz.jpg`)
-					client.sendMessage(from, buffer, image, {quoted: mek, caption: '*CRIADOR:* Dark\n*YOUTUBE:* https://bit.ly/2MD43V2\n*WPP:* wa.me/+5517991134416\n*INSTA:* to sem aff kk\n\n\n*Digite *.bot* para ver comandos basicos para criar um bot'})
+					buffer = await getBuffer(` `)
+					client.sendMessage(from, buffer, image, {quoted: mek, caption: '*CRIADOR:* Elemental\n*YOUTUBE:* http://bit.do/fNWUe\n*WPP:* wa.me/+5516992274777\n*INSTA:* to sem aff kk\n\n\n*Digite *.bot* para ver comandos basicos para criar um bot'})
 					break
 				case 'belle2':
 					memein = await kagApi.memeindo()
@@ -343,7 +343,7 @@ async function starts() {
 				case 'bot':
 			     	memein = await kagApi.memeindo()
 					buffer = await getBuffer(`https://i.imgur.com/dPUVFF6.png`)
-					client.sendMessage(from, buffer, image, {quoted: mek, caption: '*_Comandos basicos para bot:_*\n\n*pkg upgrade && pkg update*\n*pkg install git*\n*git clone (link da git)*\n*cd (repositório)*\n*bash install.sh*\n*npm start*\n\n*Dark Domina*'})
+					client.sendMessage(from, buffer, image, {quoted: mek, caption: '*_Comandos basicos para bot:_*\n\n*pkg upgrade && pkg update*\n*pkg install git*\n*git clone (link da git)*\n*cd (repositório)*\n*bash install.sh*\n*npm start*\n\n*Elemental domina*'})
 					break
 				case 'belle3':
 					memein = await kagApi.memeindo()
@@ -407,8 +407,8 @@ async function starts() {
 					break
 				case 'canal':
 					memein = await kagApi.memeindo()
-					buffer = await getBuffer(`https://imgur.com/gallery/xuTCBPO`)
-					client.sendMessage(from, buffer, image, {quoted: mek, caption: '️*canal do dark:*\n\n https://bit.ly/3omUNCg'})
+					buffer = await getBuffer(``)
+					client.sendMessage(from, buffer, image, {quoted: mek, caption: '️*canal do Elemental:*\n\n http://bit.do/fNWUe'})
 					break
 				case 'mia1':
 					memein = await kagApi.memeindo()
